@@ -1,5 +1,5 @@
 {
-    "name": "jonnyw/php-phantomjs",
+    "name": "kaybie3/php-phantomjs",
     "description": "A PHP wrapper for loading pages through PhantomJS",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
@@ -19,7 +19,7 @@
         "symfony/filesystem": "~2.3|~3.0",
         "symfony/yaml": "~2.3|~3.0",
         "twig/twig": "~1.16",
-        "jakoch/phantomjs-installer": "2.1.1-p08"
+        "jakoch/phantomjs-installer": "^3"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
